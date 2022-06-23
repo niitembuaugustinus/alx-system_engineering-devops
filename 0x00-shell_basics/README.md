@@ -1,1 +1,1 @@
-Printing current working directory (pwd)
+SHELL BASICS
